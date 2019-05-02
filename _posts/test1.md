@@ -1,2 +1,5 @@
-## title
-这是一个测试页。
+---
+layout: post
+title: 这是一个测试页
+---
+你好， jelly。
