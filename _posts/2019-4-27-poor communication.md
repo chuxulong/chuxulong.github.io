@@ -1,3 +1,8 @@
+---
+layout: post
+title: Poor Communication
+---
+
 https://www.business.auckland.ac.nz/en/about/news-and-media/nz-herald-brand-insights/2017/true-cost-of-poor-communication.html
 
 

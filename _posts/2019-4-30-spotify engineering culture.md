@@ -1,4 +1,8 @@
-## Spotify Engineering Culture
+---
+layout: post
+title: Spotify Engineering Culture
+---
+
 1. Rules are a good start, then break them when needed.
 规则需要一开始就制定好，然后随时准备被打破。
 
