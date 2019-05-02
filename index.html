@@ -12,6 +12,16 @@ layout: default
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
+  <article class="post">
+
+    <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+
+    <div class="entry">
+      {{ page.excerpt }}
+    </div>
+
+    <a href="{{ site.baseurl }}{{ page.url }}" class="read-more">Read More</a>
+  </article>
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
