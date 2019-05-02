@@ -5,10 +5,8 @@ title: Spotify Engineering Culture
 
 1. Rules are a good start, then break them when needed.
 规则需要一开始就制定好，然后随时准备被打破。
-
 2. Agile > Scrum, Principles > Practices, Servant > Master.
 敏捷优于Scrum，原则优于实践，服务优于专家
-
 3. Be autonomous, but don't suboptimize.
 自治，而不是局部最优
 
