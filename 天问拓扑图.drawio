@@ -1,0 +1,387 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="e4ivwLrbzLyUh9WydUux">
+    <mxGraphModel dx="2575" dy="1510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1385" width="1520" x="100" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#A9C4EB;" value="" vertex="1">
+          <mxGeometry height="275" width="527.5" x="596.25" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFF2CC;" value="" vertex="1">
+          <mxGeometry height="270" width="375" x="692.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#E6FFCC;" value="" vertex="1">
+          <mxGeometry height="460" width="200" x="1200" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#E6FFCC;" value="" vertex="1">
+          <mxGeometry height="460" width="200" x="990" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;fillColor=#E6FFCC;" value="" vertex="1">
+          <mxGeometry height="460" width="560" x="400" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=default;fillColor=#E6FFCC;" value="" vertex="1">
+          <mxGeometry height="250" width="180" x="190" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-2" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;fontSize=14;imageBorder=default;" value="" vertex="1">
+          <mxGeometry height="100" width="160" x="800" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-108" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;font&gt;AH3柜 电表&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="220" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="高压柜多功能电表&lt;div&gt;（共4台）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="210" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-100" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="995.4761904761904" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="1AA1 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="420" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-99" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-16" parent="1" style="rounded=1;html=1;fontSize=14;whiteSpace=wrap;" value="1AA2 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="420" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-98" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1095" />
+              <mxPoint x="410" y="880" />
+            </Array>
+            <mxPoint x="400" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="1AA3 多功能表(6台）" vertex="1">
+          <mxGeometry height="30" width="140" x="420" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="2AA1 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="600" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="2AA2 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="600" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="2AA3 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="600" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="2AA4 多功能表(6台）" vertex="1">
+          <mxGeometry height="30" width="140" x="600" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="2AA5 多功能表(7台）" vertex="1">
+          <mxGeometry height="30" width="140" x="600" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="2AA6 多功能表(6台）" vertex="1">
+          <mxGeometry height="30" width="140" x="600" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-76" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1294.666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="2AA7 多功能表(5台）" vertex="1">
+          <mxGeometry height="30" width="140" x="600" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-75" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=wire;dashed=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="880.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="2AA8 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="600" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="低压柜多功能电表&lt;div&gt;（共60台）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="610" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-111" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="TM1变压器温控" vertex="1">
+          <mxGeometry height="30" width="120" x="1045" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-109" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="TM3变压器温控" vertex="1">
+          <mxGeometry height="30" width="120" x="1045" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-110" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="TM2变压器温控" vertex="1">
+          <mxGeometry height="30" width="115" x="1045" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-121" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="电容补偿装置1" vertex="1">
+          <mxGeometry height="30" width="120" x="1241" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-115" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="电容补偿装置3" vertex="1">
+          <mxGeometry height="30" width="120" x="1241" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-120" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="电容补偿装置2" vertex="1">
+          <mxGeometry height="30" width="120" x="1241" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-123" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1464.7142857142858" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6FFCC;fontStyle=1" value="直流屏装置" vertex="1">
+          <mxGeometry height="460" width="90" x="1420" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-124" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-125" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="FzcIZLx3NGSgHFhAEVsf-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="串口服务器&lt;div&gt;（共3台）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="380" x="690" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-107" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;font&gt;AH5柜 电表&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="220" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-103" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;font&gt;AH6柜 电表&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="220" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-101" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;font&gt;AH7柜 电表&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="220" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="3AA1 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="780" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="3AA2 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="780" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="3AA3 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="780" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="3AA4 多功能表(9台）" vertex="1">
+          <mxGeometry height="30" width="140" x="780" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="3AA5 多功能表(4台）" vertex="1">
+          <mxGeometry height="30" width="140" x="780" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="3AA6 多功能表(3台）" vertex="1">
+          <mxGeometry height="30" width="140" x="780" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="3AA7 多功能表(4台）" vertex="1">
+          <mxGeometry height="30" width="140" x="780" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="3AA8 多功能表(1台）" vertex="1">
+          <mxGeometry height="30" width="140" x="780" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="变压器温控&lt;br&gt;&lt;div&gt;（共3台）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1030" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="电容补偿装置&lt;br&gt;&lt;div&gt;（共3台）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1210" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-126" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="FzcIZLx3NGSgHFhAEVsf-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="交换机" vertex="1">
+          <mxGeometry height="40" width="380" x="690" y="667.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-128" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FzcIZLx3NGSgHFhAEVsf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="光纤转换器" vertex="1">
+          <mxGeometry height="40" width="90" x="835" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-127" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="FzcIZLx3NGSgHFhAEVsf-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="光纤转换器" vertex="1">
+          <mxGeometry height="40" width="90" x="835" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="&lt;div&gt;中控室&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="690" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="&lt;div&gt;通讯屏&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="610" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-74" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="880" as="sourcePoint" />
+            <mxPoint x="1465" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-78" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1244.933333333333" as="sourcePoint" />
+            <mxPoint x="580" y="1244.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-79" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1194.933333333333" as="sourcePoint" />
+            <mxPoint x="580" y="1194.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-80" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="994.933333333333" as="sourcePoint" />
+            <mxPoint x="580" y="994.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-81" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1044.933333333333" as="sourcePoint" />
+            <mxPoint x="580" y="1044.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-82" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1094.933333333333" as="sourcePoint" />
+            <mxPoint x="580" y="1094.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-83" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1144.933333333333" as="sourcePoint" />
+            <mxPoint x="580" y="1144.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-86" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=wire;dashed=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="1347.4999999999998" as="sourcePoint" />
+            <mxPoint x="760" y="882.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-91" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="995.003333333333" as="sourcePoint" />
+            <mxPoint x="760" y="994.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-92" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="1045.003333333333" as="sourcePoint" />
+            <mxPoint x="760" y="1044.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-93" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="1095.003333333333" as="sourcePoint" />
+            <mxPoint x="760" y="1094.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-94" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="1145.003333333333" as="sourcePoint" />
+            <mxPoint x="760" y="1144.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-95" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="1195.003333333333" as="sourcePoint" />
+            <mxPoint x="760" y="1194.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-96" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="1245.003333333333" as="sourcePoint" />
+            <mxPoint x="760" y="1244.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-97" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="1295.003333333333" as="sourcePoint" />
+            <mxPoint x="760" y="1294.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-116" edge="1" parent="1" source="FzcIZLx3NGSgHFhAEVsf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.205;entryY=0.272;entryDx=0;entryDy=0;entryPerimeter=0;" target="FzcIZLx3NGSgHFhAEVsf-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-131" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontSize=16;" value="71台设备通过485线&lt;div&gt;均匀分布&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;到&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3台串口服务器中&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="240" x="1123.75" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-133" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontSize=16;" value="通讯屏和中控室距离&lt;div&gt;较远，采用光纤通讯&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="240" x="1090" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-134" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="&lt;div&gt;光纤&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="860" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="&lt;div&gt;485线&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="320" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="&lt;div&gt;电力监控系统&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="860" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="&lt;div&gt;以太网&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="870" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="&lt;div&gt;以太网&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="870" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="&lt;div&gt;485线&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="870" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-140" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="520" as="sourcePoint" />
+            <mxPoint x="1560" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-141" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="&lt;div&gt;中控室&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="250" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-142" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="&lt;div&gt;配电房&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="240" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="FzcIZLx3NGSgHFhAEVsf-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="&lt;div&gt;天问电力监控系统拓扑图&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="370" x="695" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
